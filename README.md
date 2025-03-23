@@ -32,7 +32,7 @@ Tous les plans ont été conçus sur mesure pour une découpe laser. Tu peux les
 
 ### 📐 Schéma des faces extérieures
 *Emplacement pour l'image*  
-`![Schéma des faces](images/borne.png)`
+`![Schéma des faces](https://github.com/ewenman5137/Borne-Arcade/blob/main/images/borne.png)`
 
 ### 🧩 Schéma de l’intérieur (montage Raspberry Pi, écran, câblage)
 *Emplacement pour l'image*  
