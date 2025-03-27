@@ -65,7 +65,3 @@ Ce projet est sous licence **MIT**. Tu peux le modifier, le réutiliser, le part
 ## 📸 Galerie (à venir)
 
 Des photos du projet terminé, de la fabrication et de l’utilisation seront ajoutées ici !
-
----
-
-Tu veux que je t’aide à créer les fichiers pour les plans (SVG, DXF), le dépôt Git, ou les instructions de montage ?
