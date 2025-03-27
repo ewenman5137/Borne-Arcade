@@ -31,15 +31,15 @@ Grâce à cette borne cubique, chaque face intègre une dimension du jeu, de l�
 Tous les plans ont été conçus sur mesure pour une découpe laser. Tu peux les télécharger, les modifier, et les réutiliser librement.
 
 ### 📐 Schéma des faces extérieures
-*Emplacement pour l'image*  
+
 `![Schéma des faces](https://github.com/ewenman5137/Borne-Arcade/blob/main/images/borne.png)`
 
 ### 🧩 Schéma de l’intérieur (montage Raspberry Pi, écran, câblage)
-*Emplacement pour l'image*  
+
 `![Schéma intérieur](images/schema-intern.png)`
 
 ### 🎮 Schéma de la face avant (position écran, haut-parleur, LED)
-*Emplacement pour l'image*  
+
 `![Schéma des faces](images/face.png)`
 
 ---
@@ -53,12 +53,6 @@ Des tutoriels seront bientôt disponibles pour t’accompagner pas à pas :
 - 💡 Raccordement des LED
 - 🎛️ Configuration des boutons
 - 🎮 Installation de l’OS et de l’émulateur (ex: Recalbox ou RetroPie)
-
----
-
-## 🧑‍💻 Code et configuration
-
-Un dépôt séparé contient la configuration logicielle et les scripts pour gérer les LEDs, les boutons, et l’interface de lancement des jeux. Ce dépôt sera bientôt lié ici.
 
 ---
 
