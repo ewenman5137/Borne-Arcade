@@ -1,7 +1,3 @@
-Parfait, voici un exemple de fichier `README.md` que tu pourrais utiliser pour ton projet :
-
----
-
 # 🎮 Borne d’Arcade Keycube — Open Source & DIY
 
 Bienvenue sur le projet **Keycube Arcade**, une borne d’arcade **cubique** conçue pour mettre en valeur les possibilités du **Keycube**. Ce projet est **100% open-source** et **gratuit**, que ce soit les plans, le montage ou la configuration logicielle. Il est conçu pour être **simple à fabriquer** grâce à une **découpe laser** et du matériel facilement accessible.
